@@ -1,0 +1,1 @@
+/Users/thiagobeppe/Documents/studies/Rust/rust-learning/CodeShow/Aula-1/cargo_new/project/target/debug/project: /Users/thiagobeppe/Documents/studies/Rust/rust-learning/CodeShow/Aula-1/cargo_new/project/src/main.rs
